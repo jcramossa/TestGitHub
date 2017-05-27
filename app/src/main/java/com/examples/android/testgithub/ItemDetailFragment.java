@@ -18,6 +18,8 @@ import com.examples.android.testgithub.dummy.DummyContent;
  * on handsets.
  */
 public class ItemDetailFragment extends Fragment {
+    //Comment
+
     /**
      * The fragment argument representing the item ID that this fragment
      * represents.
